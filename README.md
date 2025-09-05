@@ -2,20 +2,20 @@
 
 **Backend Engineer & Infrastructure Developer** | 5+ years crafting high-performance systems and developer tools
 
-> Currently exploring **Zig** while building the next generation of Discord tooling and backend infrastructure.
+> Previously specialized in **Zig** and Discord tooling. Currently taking a step back from development to explore new horizons.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Did
 
-I specialize in **backend engineering** and **infrastructure development**, with a focus on:
+I specialized in **backend engineering** and **infrastructure development**, with a focus on:
 
-- **High-Performance APIs** - Building scalable backend services with modern TypeScript/Node.js
-- **Developer Tools & Libraries** - Creating efficient, type-safe packages for the JavaScript ecosystem  
-- **Database Architecture** - Designing robust data layers with SQL and NoSQL solutions
+- **High-Performance APIs** - Built scalable backend services with modern TypeScript/Node.js
+- **Developer Tools & Libraries** - Created efficient, type-safe packages for the JavaScript ecosystem  
+- **Database Architecture** - Designed robust data layers with SQL and NoSQL solutions
 - **Infrastructure Automation** - DevOps practices for reliable deployments and monitoring
 
-**Status:** Student & Freelancer | Open to collaborations and opportunities
+**Status:** Taking a break from development | Exploring new professional paths
 
 ---
 
@@ -53,21 +53,26 @@ I specialize in **backend engineering** and **infrastructure development**, with
 
 ---
 
-## 📈 Current Focus
+## 🔄 Current Chapter
 
-- 🦎 **Learning Zig** - Exploring systems programming for performance-critical applications
-- 🏗️ **Infrastructure Tools** - Building developer-focused libraries and automation tools
-- 💡 **Innovation** - Pushing the boundaries of what's possible with modern backend technologies
+After 5+ years in backend development, I'm taking a step back to explore new professional horizons. The world of development and I are on a break - new paths have opened up, and I'm following where my curiosity leads me.
+
+Perhaps one day I'll return to this world, but for now, I'm embracing the unknown and learning in different domains.
+
+**Current Focus:**
+- 📊 **Financial Markets** - Learning the fundamentals of trading and market analysis
+- 🧠 **New Perspectives** - Exploring analytical thinking beyond code
+- 🌱 **Personal Growth** - Taking time to discover new passions and skills
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Past Collaborations
 
-I'm always interested in discussing:
+During my active development years, I enjoyed discussing:
 - **Backend Architecture** and scalable system design
 - **Developer Tools** and improving the JavaScript ecosystem  
 - **Open Source Collaboration** on impactful projects
-- **Freelance Opportunities** in backend development and infrastructure
+- **Infrastructure Solutions** for modern applications
 
 ---
 
@@ -84,5 +89,5 @@ I'm always interested in discussing:
 ---
 
 <div align="center">
-  <i>Building the future of backend infrastructure, one commit at a time.</i>
+  <i>Sometimes the best code is knowing when to stop coding and explore what else life has to offer.</i>
 </div>
