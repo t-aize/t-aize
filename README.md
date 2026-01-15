@@ -1,4 +1,4 @@
-# 👋 Hey, I'm AtsuLeVrai
+# 👋 Hey, I'm Tom
 
 **Backend Engineer & Infrastructure Developer** | 5+ years crafting high-performance systems and developer tools
 
@@ -78,11 +78,11 @@ During my active development years, I enjoyed discussing:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AtsuLeVrai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=t-aize&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtsuLeVrai&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=t-aize&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtsuLeVrai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=t-aize&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
